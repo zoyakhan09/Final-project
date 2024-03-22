@@ -1,0 +1,32 @@
+.navbar {
+    color: white !important;
+}
+
+.navbar-brand{
+    margin-left: 2vw;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+
+.navbar-brand:hover{
+     color: white !important;
+     border-radius: 10px;
+     background-color: #89ABE3;
+     transition: all .2s ease-in-out;
+}
+
+.navbar-nav{
+    gap: 40px;
+    margin-left: 60vw;
+    margin-right: 0;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color: white !important;
+     border-radius: 10px;
+     background-color: #89ABE3;
+     transition: all .2s ease-in-out;
+}
